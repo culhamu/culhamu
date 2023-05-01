@@ -39,7 +39,3 @@
 
 ***If you would like to work with me, please feel free to contact me. Thanks!***
 
-<!--
-**culhamu/culhamu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
--->
