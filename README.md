@@ -7,13 +7,11 @@
 - 🌱 I’m currently learning Automation Testing
 - 👯 I’m looking to collaborate on https://www.fiverr.com/s/4R4qlb
 - 💬  Ask me about **Java, Selenium, Cucumber, SQL, TestNG, Postman, Restful, Jenkins**
-- 📫 How to reach me: mustafa.qatester@gmail.com
 
 ## Connect with me
 
  [<img src="https://myclouddoor.com/wp-content/uploads/2019/11/Linkedin-logo.png" width="86" height="64">](https://www.linkedin.com/in/mustafa-culha/)
  [<img src="https://1000marcas.net/wp-content/uploads/2019/11/logo-Gmail-1-1280x720.png" width="86" height="64">](mailto:mustafa.qatester@gmail.com)
-
 
 
 ## My Skills
