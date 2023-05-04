@@ -26,8 +26,8 @@
 
 ## My interests
 
-- Bicycle
-- Walk
+- Cycling
+- Walking
 - Cinema
 - Open source projects
 - Ping pong
