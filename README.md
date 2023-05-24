@@ -15,7 +15,6 @@
 
 
 ## My Skills
-[<img src="(https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg)" width="86" height="64">]
 
 - Manual and automatic testing
 - Test planning and design
