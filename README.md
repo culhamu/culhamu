@@ -1,11 +1,5 @@
 # Hi 🖐️, I'm Mustafa
 ## Automation Engineer
- </a>
- 
-  <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=berkansonmezay&&style=flat-square" align="center" />
-</div> 
-</p>
 ![](https://github.com/BEPb/BEPb/raw/output/github-contribution-grid-snake.svg)
 
 
