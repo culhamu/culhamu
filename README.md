@@ -134,15 +134,6 @@
 </br>
 </br>
 
-## My interests
-
-- Cycling
-- Walking
-- Cinema
-- Open source projects
-- Ping pong
-- Calligraphy
-- Football
 
 
 
