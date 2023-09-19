@@ -1,17 +1,8 @@
-<p align="right"> <img src="https://gpvc.arturio.dev/austinae" alt="Profile count" /> </p>
 
-<div align="center">
-
-
-![Top of pokeball](https://user-images.githubusercontent.com/44261381/209363264-ac854d3c-2cc2-44c4-928e-8a08d1013f46.png)
-
-<details>
-<summary>Open profile</summary>
 
 <h2 > Hi There, Welcome to my Github profile! <img src="https://github.com/abdoachhoubi/abdoachhoubi/blob/main/gifs/Hi.gif" width="30"></h2>
 
 ![](https://camo.githubusercontent.com/992babdffd8c74a1502de375fbdf7e4d54773242/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f53576f536b4e36447854737a71494b4571762f67697068792e676966)
-
 
 ![](https://github.com/BEPb/BEPb/raw/output/github-contribution-grid-snake.svg)
 
@@ -58,15 +49,90 @@
 &emsp;
 <a target="_blank" href="https://medium.com/@mustafa.qatester"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"></img></a>
 
-## My Skills
+***If you would like to work with me, please feel free to contact me. Thanks!***
+## 🛠️ My Skills
 
-- Manual and automatic testing
-- Test planning and design
-- Performance test
-- API testing
-- Mobile and web application testing
-- Test automation: Selenium, Java, etc.
-- Defect management
+### 👉 Programming languages
+
+<p align="left"> 
+  &emsp;
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
+     <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?logo=javascript&logoColor=black">
+   </a>
+  &emsp;
+  <a href="https://www.java.com" target="_blank"> 
+    <img alt="Java" src="https://img.shields.io/badge/Java-%23007396.svg?logo=java&logoColor=white">
+  </a>
+  &emsp;
+   <a href="https://www.python.org" target="_blank">
+    <img alt="Python" src="https://img.shields.io/badge/Python%20-%2314354C.svg?logo=python&logoColor=white">
+  </a>
+</p>
+
+### 👉 Frontend Development
+<p align="left"> 
+  &emsp; 
+  <a href="https://www.w3.org/html/" target="_blank"> 
+   <img alt="HTML" src="https://img.shields.io/badge/HTML5%20-%23E34F26.svg?logo=html5&logoColor=white">
+  </a>   
+  &emsp;
+  <a href="https://www.w3schools.com/css/" target="_blank">
+    <img alt="CSS" src="https://img.shields.io/badge/CSS%20-%231572B6.svg?logo=css3&logoColor=white">
+  </a> 
+</p>
+
+### 👉 Databases & Cloud Hosting
+<p align="left">
+  &emsp;
+    <a href="https://www.mysql.com/"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-%2300f.svg?style=flat&llogo=mysql&logoColor=white"></a>
+  &emsp;
+    <a href="https://www.sqlite.org/"><img alt="SQLite" src ="https://img.shields.io/badge/sqlite-%2307405e.svg?style=flat&logo=sqlite&logoColor=white"/></a>
+  &emsp;
+    <a href="https://www.github.com"><img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-%23327FC7.svg?style=flat&llogo=github&logoColor=white"></a>
+  
+### 👉Graphic Designing
+<p align="left">
+  &emsp;
+   <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank"> 
+    <img alt="Adobe Illustrator" src="https://img.shields.io/badge/Adobe Illustrator-%23FF9A00.svg?style=flat&logo=adobeillustrator&logoColor=white"/>
+  </a> 
+  &emsp;
+  <a href="https://www.adobe.com/in/products/indesign.html" target="_blank"> 
+    <img alt="Adobe Indesign" src="https://img.shields.io/badge/Adobe Indesign-%e749a0.svg?style=flat&logo=adobeindesign&logoColor=white"/> 
+  </a> 
+    &emsp;
+  <a href="#">
+  	<img alt="Canva" src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white"/>
+  </a>
+ </p>
+
+ ### 👉 Software & Tools
+ 
+<p>
+  &emsp;
+    <a href="#"><img alt="Adobe" src="https://img.shields.io/badge/Adobe%20-%23FF0000.svg?logo=adobe&logoColor=white"></a>
+  &emsp;
+    <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git%20-%23F05033.svg?logo=git&logoColor=white"></a>
+  &emsp;
+    <a href="#"><img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black"></a>
+  &emsp;
+    <a href="#"><img alt="Google Sheets" src="https://img.shields.io/badge/Google%20Sheets%20-%2334A853.svg?logo=google%20sheets&logoColor=white"></a>
+  &emsp;
+    <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
+  &emsp;
+    <a href="#"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?logo=stack-overflow&logoColor=white"></a>
+   &emsp;
+    <a href="#"><img alt="Windows" src="https://img.shields.io/badge/Windows%20-0078D6?style=for-the-badge&logo=windows&logoColor=white"></a>
+</p>
+
+<br/>
+
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=culhamu&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="ABSphreak's Github Stats">
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=CodeWhiteWeb&theme=radical&hide_border=false)<br/>
+
+</br>
+</br>
 
 ## My interests
 
@@ -79,17 +145,4 @@
 - Football
 
 
-***If you would like to work with me, please feel free to contact me. Thanks!***
-
-
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=culhamu&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="ABSphreak's Github Stats">
-
-</br>
-</br>
-
-</details>
-
-![Bottom of pokeball](https://user-images.githubusercontent.com/44261381/209363271-905d2a5e-8a18-44c0-a450-45dddd4d5036.png)
-
-</div>
 
