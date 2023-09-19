@@ -1,12 +1,10 @@
-<p align="center">
-  <img src="https://github.com/thompsonemerson/thompsonemerson/raw/master/cover-thompson.png" height="200"/>
-</p>
-<h2 align=center> Hi There, Welcome to my Github profile! <img src="https://github.com/abdoachhoubi/abdoachhoubi/blob/main/gifs/Hi.gif" width="30"></h2>
+<h2 > Hi There, Welcome to my Github profile! <img src="https://github.com/abdoachhoubi/abdoachhoubi/blob/main/gifs/Hi.gif" width="30"></h2>
+
+![](https://camo.githubusercontent.com/992babdffd8c74a1502de375fbdf7e4d54773242/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f53576f536b4e36447854737a71494b4571762f67697068792e676966)
+
 
 ![](https://github.com/BEPb/BEPb/raw/output/github-contribution-grid-snake.svg)
 
-
-![](https://raw.githubusercontent.com/zouariste/corona-runner/gh-pages/assets/corona-runner.gif)
 - 🔭 I am currently working in every field, trying to improve myself
 - 👯 I’m looking to collaborate on https://www.fiverr.com/s/4R4qlb
 <h3 align="left"> Programming Languages & Tools: </h3>
