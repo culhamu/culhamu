@@ -1,3 +1,13 @@
+<p align="right"> <img src="https://gpvc.arturio.dev/austinae" alt="Profile count" /> </p>
+
+<div align="center">
+
+
+![Top of pokeball](https://user-images.githubusercontent.com/44261381/209363264-ac854d3c-2cc2-44c4-928e-8a08d1013f46.png)
+
+<details>
+<summary>Open profile</summary>
+
 <h2 > Hi There, Welcome to my Github profile! <img src="https://github.com/abdoachhoubi/abdoachhoubi/blob/main/gifs/Hi.gif" width="30"></h2>
 
 ![](https://camo.githubusercontent.com/992babdffd8c74a1502de375fbdf7e4d54773242/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f53576f536b4e36447854737a71494b4571762f67697068792e676966)
@@ -76,4 +86,10 @@
 
 </br>
 </br>
+
+</details>
+
+![Bottom of pokeball](https://user-images.githubusercontent.com/44261381/209363271-905d2a5e-8a18-44c0-a450-45dddd4d5036.png)
+
+</div>
 
