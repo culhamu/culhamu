@@ -8,48 +8,7 @@
 
 - 🔭 I am currently working in every field, trying to improve myself
 - 👯 I’m looking to collaborate on https://www.fiverr.com/s/4R4qlb
-<h3 align="left"> Programming Languages & Tools: </h3>
 
-[<img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/5b3600551e122a3277c2c5368af2ad5725ffa9a1/topics/java/java.png">][java]
-[<img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/5b3600551e122a3277c2c5368af2ad5725ffa9a1/topics/selenium/selenium.png">][selenium]
-[<a href="https://testng.org/doc/" target="_blank"><img src="https://blogs.perficient.com/files/2014/08/TestNG.png" alt="testng" width="40" height="40" /></a>][testng]
-<img src="https://github.com/devicons/devicon/blob/master/icons/cucumber/cucumber-plain.svg" title="Cucumber" alt="Cucumber" width="40" height="40"/>
-<a href="https://www.api.com" target="_blank" rel="noreferrer"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQFpswKqlwex1UtYOHT6cWIVsJ3dQfEg__lFQ&usqp=CAU" alt="api" width="40" height="40"/> </a>
-<a href="https://swagger.io/" target="_blank" rel=”noopener”> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2-qHhkU65OgRkaxFh1vRF4ycDfUOznjs7cEu5aXbMwWCYpNUMNPfDcL9Fox0a3_mbtAY&usqp=CAU" alt="swagger" width="40" height="40"/> </a>
-[![Cypress](https://img.shields.io/badge/-Cypress-black?style=flat-square&logo=cypress&logoColor=white)](https://www.cypress.io/)
-<img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/5b3600551e122a3277c2c5368af2ad5725ffa9a1/topics/git/git.png">
-[<img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/5b3600551e122a3277c2c5368af2ad5725ffa9a1/topics/html/html.png">][html]
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40" />
-[<a href="https://www.jetbrains.com/idea/features/" target="_blank" rel=”noopener”> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQalKFwVDd0H7Xx8HaqWBbUmDRdrgxUoicGBZC0eIzTsww7Sev-ySXJ3in9Udv2R9CR3lo&usqp=CAU" alt="IntelliJ" width="40" height="40"/> </a>][intellij]
-[<img width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][vscode]
-<img src="https://github.com/devicons/devicon/blob/master/icons/jira/jira-original-wordmark.svg" title="Jira" alt="Jira" width="40" height="40"/>
-<a href="https://postman.com" target="_blank" rel=”noopener”> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>
-[<a style="padding-right:8px;" href="https://www.mysql.com/" target="_blank"> <img src="https://img.icons8.com/fluent/50/000000/mysql-logo.png"/> </a>][mysql]
-[<img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/5b3600551e122a3277c2c5368af2ad5725ffa9a1/topics/github/github.png">][github]
-
-[vscode]: https://code.visualstudio.com/
-[java]: https://www.java.com/
-[selenium]: https://www.selenium.dev/
-[mysql]: https://www.mysql.com/ 
-[sql]: https://www.w3schools.com/sql/
-[html]: https://www.w3schools.com/html/
-[github]: https://github.com/culhamu
-[cucumber]: https://cucumber.io/
-[intellij]: https://www.jetbrains.com/idea/download/#section=windows
-[testng]: https://testng.org/doc/
-
-## Connect with me on
-<br>	
-<a target="_blank" href="https://www.linkedin.com/in/mustafa-culha/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"></img></a>
-&emsp;
-<a target="_blank" href="mailto:mustafa.qatester@gmail.com"
-><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white"></img></a>
-&emsp;
-<a target="_blank" href="https://twitter.com/mustafa_clh"><img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white"></img></a>
-&emsp;
-<a target="_blank" href="https://medium.com/@mustafa.qatester"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"></img></a>
-
-***If you would like to work with me, please feel free to contact me. Thanks!***
 ## 🛠️ My Skills
 
 ### 👉 Programming languages
@@ -67,7 +26,29 @@
    <a href="https://www.python.org" target="_blank">
     <img alt="Python" src="https://img.shields.io/badge/Python%20-%2314354C.svg?logo=python&logoColor=white">
   </a>
+  &emsp;
+ <a href="https://www.selenium.dev/" target="_blank">
+  <img height="20" width="30" src="https://raw.githubusercontent.com/github/explore/5b3600551e122a3277c2c5368af2ad5725ffa9a1/topics/selenium/selenium.png">
+   </a>
+  &emsp;
+  <a href="https://postman.com" target="_blank" rel=”noopener”> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>
 </p>
+
+### 👉 Framework
+<p>
+ &emsp;
+  <a href="https://testng.org/doc/" target="_blank"><img src="https://blogs.perficient.com/files/2014/08/TestNG.png" alt="testng" width="30" height="30" /></a>
+  &emsp;
+  <a href="https://www.cypress.io/" target="_blank"><img src="https://img.shields.io/badge/-Cypress-black?style=flat-square&logo=cypress&logoColor=white"></a>
+&emsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/cucumber/cucumber-plain.svg" title="Cucumber" alt="Cucumber" width="30" height="30"/>
+&emsp;
+   <a href="https://robotframework.org/" target="_blank"><img src="https://img.shields.io/badge/-Robot%20Framework-black?style=flat-square&logo=robotframework&logoColor=white"></a>
+&emsp;
+   <a href="https://gauge.org/" target="_blank"><img src="https://cdn-images-1.medium.com/v2/resize:fill:1600:480/gravity:fp:0.5:0.4/1*-eD750dkeVEjfjgG410PjQ.jpeg" alt="Gauge+Taiko Framework" width="80" height="30"></a>
+&emsp;
+    <a href="https://github.com/intuit/karate" target="_blank"><img src="https://bookface-images.s3.amazonaws.com/logos/f9e6e6521bf5b4f74171a4e0b1b9339eee53a9f7.png" alt="Karate Framework" width="50" height="30" /></a>
+  </p>
 
 ### 👉 Frontend Development
 <p align="left"> 
@@ -84,7 +65,7 @@
 ### 👉 Databases & Cloud Hosting
 <p align="left">
   &emsp;
-    <a href="https://www.mysql.com/"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-%2300f.svg?style=flat&llogo=mysql&logoColor=white"></a>
+    <a style="padding-right:8px;" href="https://www.mysql.com/" target="_blank"> <img src="https://img.icons8.com/fluent/50/000000/mysql-logo.png"/> </a>
   &emsp;
     <a href="https://www.sqlite.org/"><img alt="SQLite" src ="https://img.shields.io/badge/sqlite-%2307405e.svg?style=flat&logo=sqlite&logoColor=white"/></a>
   &emsp;
@@ -119,10 +100,14 @@
     <a href="#"><img alt="Google Sheets" src="https://img.shields.io/badge/Google%20Sheets%20-%2334A853.svg?logo=google%20sheets&logoColor=white"></a>
   &emsp;
     <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
+&emsp;
+  <a href="https://www.jetbrains.com/idea/features/" target="_blank" rel=”noopener”> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQalKFwVDd0H7Xx8HaqWBbUmDRdrgxUoicGBZC0eIzTsww7Sev-ySXJ3in9Udv2R9CR3lo&usqp=CAU" alt="IntelliJ" width="40" height="30"/> </a>
   &emsp;
     <a href="#"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?logo=stack-overflow&logoColor=white"></a>
    &emsp;
-    <a href="#"><img alt="Windows" src="https://img.shields.io/badge/Windows%60-0078D6?style=for-the-badge&logo=windows&logoColor=white"></a>
+    <a href="#"><img alt="Windows" src="https://img.shields.io/badge/Windows%60-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Windows" width="60" height="20"/></a>
+     &emsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/jira/jira-original-wordmark.svg" title="Jira" alt="Jira" width="40" height="40"/>
 </p>
 
 <br/>
@@ -133,6 +118,19 @@
 
 </br>
 </br>
+
+## Connect with me on
+<br>	
+<a target="_blank" href="https://www.linkedin.com/in/mustafa-culha/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"></img></a>
+&emsp;
+<a target="_blank" href="mailto:mustafa.qatester@gmail.com"
+><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white"></img></a>
+&emsp;
+<a target="_blank" href="https://twitter.com/mustafa_clh"><img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white"></img></a>
+&emsp;
+<a target="_blank" href="https://medium.com/@mustafa.qatester"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"></img></a>
+
+***If you would like to work with me, please feel free to contact me. Thanks!***
 
 
 
