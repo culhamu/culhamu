@@ -132,7 +132,9 @@
 <a target="_blank" href="https://twitter.com/mustafa_clh"><img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white"></img></a>
 &emsp;
 <a target="_blank" href="https://medium.com/@mustafa.qatester"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"></img></a>
-
+  <div align="center">
+  <img src="https://komarev.com/ghpvc/?username=frknkcr&&style=flat-square" align="center" />
+</div> 
 ***If you would like to work with me, please feel free to contact me. Thanks!***
 
 
